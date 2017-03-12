@@ -1,0 +1,8 @@
+loan:
+  max.amount: 30
+  risky.start.time: "00:00"
+  risky.end.time: "07:00"
+  interest.rate: 1.5
+
+ip.limit.service:
+  loans.per.day.limit: 3
